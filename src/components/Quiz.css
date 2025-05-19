@@ -1,0 +1,37 @@
+
+   .quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.question {
+    margin-bottom: 10px;
+}
+
+.answer-button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.correct {
+    background-color: green;
+    color: white;
+}
+
+.incorrect {
+    background-color: red;
+    color: white;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
